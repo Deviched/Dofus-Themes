@@ -10,5 +10,17 @@
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/CityscapePrev.png", 
         "creationDate" : "10/24/2016", 
         "modificationDate" : "2/15/2016" 
-    }
+    },
+      { 
+        "author" : "Deviched", 
+        "name" : "Viva Mexico Extra Cultural", 
+        "keyWords" : "Mexico, South America, Culture, World", 
+        "version" : "1.0.0", 
+        "dofusVersion" : "2.40", 
+        "description" : "Extra cultural ;)", 
+        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/VivaMexEC%20v1.zip", 
+        "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/VivaPrev.PNG", 
+        "creationDate" : "2/19/2017", 
+        "modificationDate" : "2/20/2017" 
+    } 
 ]
