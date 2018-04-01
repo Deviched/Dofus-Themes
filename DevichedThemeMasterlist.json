@@ -3,10 +3,10 @@
         "author" : "Deviched", 
         "name" : "Cityscape", 
         "keyWords" : "City, Cityscape, Buildings, Rain, Grunge, Hipster", 
-        "version" : "8.0.1", 
+        "version" : "8.0.2", 
         "dofusVersion" : "2.46", 
         "description" : "A theme composed of photos of cities.", 
-        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Cityscape%20v8.1.zip", 
+        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Cityscape%20v8.2.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/CityscapePrev.png", 
         "creationDate" : "10/24/2016", 
         "modificationDate" : "1/4/2018" 
@@ -33,6 +33,6 @@
         "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Viva%20Mexico%20v6.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/VivaPrev.png", 
         "creationDate" : "2/19/2017", 
-        "modificationDate" : "28/3/2017" 
+        "modificationDate" : "28/3/2018" 
     } 
 ]
