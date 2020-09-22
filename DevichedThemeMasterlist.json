@@ -3,36 +3,36 @@
         "author" : "Deviched", 
         "name" : "Cityscape", 
         "keyWords" : "City, Cityscape, Buildings, Rain, Grunge, Hipster", 
-        "version" : "18.2", 
-        "dofusVersion" : "2.56", 
+        "version" : "19.0", 
+        "dofusVersion" : "2.57", 
         "description" : "A theme composed of photos of cities.", 
         "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Cityscape%20v18.2.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/CityscapePrev.png", 
         "creationDate" : "24/10/2016", 
-        "modificationDate" : "8/1/2020" 
+        "modificationDate" : "9/22/2020" 
     },
     { 
         "author" : "Deviched", 
         "name" : "Memento to Frigost", 
         "keyWords" : "Frigost, Ankama, Dofus, Chillberg, Harebourg, Count Harebourg, Cold, Winter, Ice", 
-        "version" : "18.3", 
-        "dofusVersion" : "2.56", 
+        "version" : "19.0", 
+        "dofusVersion" : "2.57", 
         "description" : "A theme in tribute to Frigost.", 
         "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Memento%20to%20Frigost%20v18.3.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/MementoToFrigostPrev.png", 
         "creationDate" : "10/30/2016", 
-        "modificationDate" : "8/13/2020" 
+        "modificationDate" : "9/22/2020" 
     },
      { 
         "author" : "Deviched", 
         "name" : "Viva Mexico", 
         "keyWords" : "Mexico, South America, Culture, World", 
-        "version" : "18.2", 
-        "dofusVersion" : "2.56",  
+        "version" : "19.0", 
+        "dofusVersion" : "2.57",  
         "description" : "A theme I made for my Spanish client.", 
         "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Viva%20Mexico%20v18.2.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/VivaPrev.png", 
         "creationDate" : "2/19/2017", 
-        "modificationDate" : "8/1/2020" 
+        "modificationDate" : "9/22/2020" 
     } 
 ]
