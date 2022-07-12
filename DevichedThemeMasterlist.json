@@ -3,25 +3,25 @@
         "author" : "Deviched", 
         "name" : "Cityscape", 
         "keyWords" : "City, Cityscape, Buildings, Rain, Grunge, Hipster", 
-        "version" : "24.0", 
-        "dofusVersion" : "2.63", 
+        "version" : "25.0", 
+        "dofusVersion" : "2.64", 
         "description" : "A theme composed of photos of cities.", 
         "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Cityscape%20v24.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/CityscapePrev.png", 
-        "creationDate" : "24/10/2016", 
-        "modificationDate" : "03/22/2022" 
+        "creationDate" : "10/26/2016", 
+        "modificationDate" : "12/07/2022" 
     },
     { 
         "author" : "Deviched", 
         "name" : "Memento to Frigost", 
         "keyWords" : "Frigost, Ankama, Dofus, Chillberg, Harebourg, Count Harebourg, Cold, Winter, Ice", 
-        "version" : "24.0", 
-        "dofusVersion" : "2.63", 
+        "version" : "25.0", 
+        "dofusVersion" : "2.64", 
         "description" : "A theme in tribute to Frigost.", 
         "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Memento%20to%20Frigost%20v24.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/MementoToFrigostPrev.png", 
-        "creationDate" : "10/30/2016", 
-        "modificationDate" : "03/22/2022" 
+        "creationDate" : "30/10/2016", 
+        "modificationDate" : "12/07/2022" 
     },
      { 
         "author" : "Deviched", 
