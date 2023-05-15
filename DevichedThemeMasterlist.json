@@ -27,12 +27,12 @@
         "author" : "Deviched", 
         "name" : "Viva Mexico", 
         "keyWords" : "Mexico, South America, Culture, World", 
-        "version" : "21.0", 
-        "dofusVersion" : "2.66",  
+        "version" : "23.0", 
+        "dofusVersion" : "2.67",  
         "description" : "A theme I made for my Spanish client.", 
-        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Viva%20Mexico%20v22.0.zip", 
+        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Viva%20Mexico%20v23.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/VivaPrev.png", 
         "creationDate" : "17/02/2017", 
-        "modificationDate" : "27/04/2023" 
+        "modificationDate" : "15/05/2023" 
     }
 ]
