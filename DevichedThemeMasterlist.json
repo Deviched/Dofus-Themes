@@ -3,36 +3,36 @@
         "author" : "Deviched", 
         "name" : "Cityscape", 
         "keyWords" : "City, Cityscape, Buildings, Rain, Grunge, Hipster", 
-        "version" : "28.1", 
-        "dofusVersion" : "2.67", 
+        "version" : "29.0", 
+        "dofusVersion" : "2.69", 
         "description" : "A theme composed of photos of cities.", 
-        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Cityscape%20v28.1.zip", 
+        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Cityscape%20v29.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/CityscapePrev.png", 
         "creationDate" : "26/10/2016", 
-        "modificationDate" : "19/06/2023" 
+        "modificationDate" : "03/11/2023" 
     },
     { 
         "author" : "Deviched", 
         "name" : "Memento to Frigost", 
         "keyWords" : "Frigost, Ankama, Dofus, Chillberg, Harebourg, Count Harebourg, Cold, Winter, Ice", 
-        "version" : "28.2", 
-        "dofusVersion" : "2.67", 
+        "version" : "29.0", 
+        "dofusVersion" : "2.69", 
         "description" : "A theme in tribute to Frigost.", 
-        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Memento%20to%20Frigost%20v28.2.zip", 
+        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Memento%20to%20Frigost%20v29.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/MementoToFrigostPrev.png", 
         "creationDate" : "30/10/2016", 
-        "modificationDate" : "20/06/2023" 
+        "modificationDate" : "03/11/2023" 
     },
      { 
         "author" : "Deviched", 
         "name" : "Viva Mexico", 
         "keyWords" : "Mexico, South America, Culture, World", 
-        "version" : "23.1", 
-        "dofusVersion" : "2.67",  
+        "version" : "24.0", 
+        "dofusVersion" : "2.69",  
         "description" : "A theme I made for my Spanish client.", 
-        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Viva%20Mexico%20v23.1.zip", 
+        "url" : "https://rawgit.com/Deviched/Dofus-Themes/master/Viva%20Mexico%20v24.0.zip", 
         "previewUrl" : "https://rawgit.com/Deviched/Dofus-Themes/master/VivaPrev.png", 
         "creationDate" : "17/02/2017", 
-        "modificationDate" : "19/06/2023" 
+        "modificationDate" : "03/11/2023" 
     }
 ]
